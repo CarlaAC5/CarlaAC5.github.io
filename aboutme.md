@@ -5,6 +5,7 @@ subtitle: A brief personal description
 ---
 
 My name is Carla Aullón, I am from Vilafranca del Penedès (Barcelona) and I love learning new skills. 
+
 Since high school, I’ve been deeply interested in biology and medical sciences, but my strongest academic inclination was always toward mathematics. This led me to pursue a degree in Data Science, where I found a way to combine analytical thinking with problem-solving. After two years working in a consulting firm, I realized I wanted to reconnect with my early passion for health-related topics and apply my skills in a more meaningful context. Discovering a program that bridges my background in data science with my long-standing interest in medicine, felt like the perfect fit. I see it as an opportunity to build a career where I can contribute to medical research and healthcare innovation through data analysis.
 
 Have a look at my background below!
