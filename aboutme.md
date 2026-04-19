@@ -4,14 +4,17 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Carla Aullón, I am from Vilafranca del Penedès (Barcelona) and I love learning new skills. 
+Since high school, I’ve been deeply interested in biology and medical sciences, but my strongest academic inclination was always toward mathematics. This led me to pursue a degree in Data Science, where I found a way to combine analytical thinking with problem-solving. After two years working in a consulting firm, I realized I wanted to reconnect with my early passion for health-related topics and apply my skills in a more meaningful context. Discovering a program that bridges my background in data science with my long-standing interest in medicine, felt like the perfect fit. I see it as an opportunity to build a career where I can contribute to medical research and healthcare innovation through data analysis.
+
+Have a look at my background below!
 
 ### Education
-
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Mathematical Engineering in Data Science degree at UPF (2019 - 2023)
+- Master in Health Data Science at URV (2025 - present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Internsihp as Software Engineer at Twilio (Summer 2022)
+- SDG Group (2023 - 2025)
+  - Data Analyst (2023 - 2024)
+  - Data Consultant (2024 - 2025)
