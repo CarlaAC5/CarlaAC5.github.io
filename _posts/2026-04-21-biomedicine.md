@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Rethinking Biomedicine 
-subtitle: A Human Perspective on Biomedicine
+title: A Human Perspective on Biomedicine
+subtitle: Big data in biomedicine, Costa (2013)
 author: Carla Aullón
-reference: Big data in biomedicine, Costa (2013)
 ---
 
 Modern medicine is often seen as a purely scientific endeavor: precise, objective, and grounded in biological facts. This idea has been remarked in recent years, since it has entered a new era: one driven not just by laboratory discoveries, but by data [1]. But we cannot forget the anthropological perspective that reminds us that medicine is not purely objective or universal, but shaped by social norms, historical contexts, and institutional power [2]. What we define as disease, how symptoms are interpreted, and which treatments are accepted influence research, diagnosis, and patient care in profound ways.
@@ -29,12 +28,16 @@ Ultimately, an anthropological view of biomedicine challenges us to rethink what
 
 ### References
 
-[1] Costa, F. F. (2013). Big data in biomedicine. Drug Discovery Today, 19(4), 433-440. https://doi.org/10.1016/j.drudis.2013.10.012
+[1] Costa, F. F. (2013). Big data in biomedicine. Drug Discovery Today, 19(4), 433-440.  
+(https://doi.org/10.1016/j.drudis.2013.10.012)
 
-[2] Lock, M., & Nguyen, V. (2018). An Anthropology of Biomedicine. https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=020426555&sequence=000002&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA
+[2] Lock, M., & Nguyen, V. (2018). An Anthropology of Biomedicine.  
+(https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=020426555&sequence=000002&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA)
 
-[3] Callahan, T. J., Tripodi, I. J., Pielke-Lombardo, H., & Hunter, L. E. (2020). Knowledge-Based Biomedical Data science. Annual Review Of Biomedical Data Science, 3(1), 23-41. https://doi.org/10.1146/annurev-biodatasci-010820-091627
+[3] Callahan, T. J., Tripodi, I. J., Pielke-Lombardo, H., & Hunter, L. E. (2020). Knowledge-Based Biomedical Data science. Annual Review Of Biomedical Data Science, 3(1), 23-41.  (https://doi.org/10.1146/annurev-biodatasci-010820-091627)
 
-[4] Baldi, P. (2018). Deep Learning in Biomedical Data Science. Annual Review Of Biomedical Data Science, 1(1), 181-205. https://doi.org/10.1146/annurev-biodatasci-080917-013343
+[4] Baldi, P. (2018). Deep Learning in Biomedical Data Science. Annual Review Of Biomedical Data Science, 1(1), 181-205.  
+(https://doi.org/10.1146/annurev-biodatasci-080917-013343)
 
-[5] Alarcón-Soto, Y., Espasandín-Domínguez, J., Guler, I., Conde-Amboage, M., Gude-Sampedro, F., Langohr, K., Cadarso-Suárez, C., & Gómez-Melis, G. (2019). Data Science in Biomedicine. arXiv (Cornell University). https://doi.org/10.48550/arxiv.1909.04486
+[5] Alarcón-Soto, Y., Espasandín-Domínguez, J., Guler, I., Conde-Amboage, M., Gude-Sampedro, F., Langohr, K., Cadarso-Suárez, C., & Gómez-Melis, G. (2019). Data Science in Biomedicine. arXiv (Cornell University).  
+(https://doi.org/10.48550/arxiv.1909.04486)
